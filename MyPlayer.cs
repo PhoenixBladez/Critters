@@ -14,7 +14,6 @@ using Terraria.Graphics.Shaders;
 using Terraria.ModLoader.IO;
 using Terraria.GameInput;
 using Critters.NPCs;
-using SpiritMod;
 
 
 namespace Critters
